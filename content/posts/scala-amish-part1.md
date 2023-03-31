@@ -11,7 +11,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Scala Amish series"
-canonicalURL: "https://benetis.me/scala-amish-part1"
+canonicalURL: "https://benetis.me/posts/scala-amish-part1"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
