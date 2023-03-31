@@ -7,7 +7,7 @@ tags: ["scala", "amish"]
 author: "Me"
 showToc: false
 TocOpen: false
-draft: false
+draft: true
 hidemeta: false
 comments: false
 description: "Scala Amish series"
