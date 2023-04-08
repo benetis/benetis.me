@@ -32,7 +32,7 @@ cover:
 editPost:
     URL: "https://github.com/benetis/benetis.me/blob/master/content/posts/scala-diy-part1.md"
     Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    appendFilePath: false # to append file path to Edit link
 ---
 
 # Introduction
