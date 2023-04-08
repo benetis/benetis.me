@@ -1,6 +1,6 @@
 ---
 title: "Writing Scala DIY style (part1)"
-date: 2023-03-31
+date: 2023-04-08
 # weight: 1
 # aliases: ["/first"]
 tags: ["scala", "diy"]
