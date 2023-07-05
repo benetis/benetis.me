@@ -79,9 +79,7 @@ Instead of usual chess squares with letters and digits, pair of digits (x, y) is
 
 The first 'solution' that comes to mind is a recursive one. Try to put one queen and the next after that. No need to carry so called state of what squares were checked already and which ones were not. This results with a problem that if no solution is found with 8 queens and first queen on square (1,1).
 
-Since this is not enough, next step
-
-is to keep some sort of state. The easiest solution should be to just iterate through all squares and start backtracking from each of the squares. This actually works, although the code below is not performant due non-early return of foldLeft (takes a minute~ to find a solution). Next step would be to replace it with something that can do early returns, but this is beyond my interest.
+Since this is not enough, next step is to keep some sort of state. The easiest solution should be to just iterate through all squares and start backtracking from each of the squares. This actually works, although the code below is not performant due non-early return of foldLeft (takes a minute~ to find a solution). Next step would be to replace it with something that can do early returns, but this is beyond my interest.
 
 ```scala
 def placeQueens(toPlace: Int,
@@ -119,5 +117,3 @@ def placeQueens(toPlace: Int,
 
 - Introduction to Evolutionary Computing By A.E. Eiben, J.E. Smith
 - [Demo'ed code of this problem (github)](https://github.com/benetis/didactic-computing-machine/blob/master/software-and-math-exercises/constraint-satisfaction/src/main/scala/me/benetis/Main.scala)
-
-Please leave your feedback in the comments section.

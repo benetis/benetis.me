@@ -533,4 +533,4 @@ Code is here - [https://github.com/benetis/angular-advanced-crud/blob/master/src
 
 ## Summary
 
-The thing you want you will find in code, here is just a quick write up on this task :)
+This is just a quick & rough write-up. You will probably find more use if you checkout code in Github. Good luck!
