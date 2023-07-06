@@ -1,6 +1,6 @@
 ---
 title: "Learning Ruby by building a chatbot"
-date: 2023-06-13
+date: 2023-06-14
 tags: ["ruby", "chatbot", "Ruby on Rails", "sidekiq"]
 author: "benetis"
 showToc: true
