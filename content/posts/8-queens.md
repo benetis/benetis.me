@@ -30,7 +30,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/benetis/benetis.me/blob/master/content/posts/backtracking-8-queens.md"
+    URL: "https://github.com/benetis/benetis.me/blob/master/content/posts/8-queens.md"
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
