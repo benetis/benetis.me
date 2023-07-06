@@ -1,5 +1,5 @@
 ---
-title: "Exploring Ruby: Building a Chatbot"
+title: "Exploring Ruby & Rails: Building a Chatbot"
 date: 2023-06-14
 tags: ["ruby", "chatbot", "Ruby on Rails", "sidekiq", "telegram"]
 author: "benetis"
