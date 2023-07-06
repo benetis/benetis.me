@@ -5,7 +5,7 @@ tags: ["ruby", "chatbot", "Ruby on Rails", "sidekiq"]
 author: "benetis"
 showToc: true
 TocOpen: false
-draft: true
+draft: false
 hidemeta: false
 comments: false
 description: "Building weather information downloader and letting chatbot user interact with data"
