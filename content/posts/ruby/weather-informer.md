@@ -110,7 +110,7 @@ Entrypoints:
 ### Notes on asynchronous processes
 
 It seems canonical way to run asynchronous processes in Ruby is to run them in sidekiq and similar workers. It is a bit weird
-for me coming from Scala. I would just run these processes on a different fiber and keep it in same process. No need to run these
+for me coming from Scala. I would just run these processes on a different fiber and keep it in same application. No need to run these
 side containers which connect to main application and keep state in yet another redis container! Process to process
 communication would have to be done through redis if my process is asynchronous. I guess it is a tradeoff between simplicity and scalability.
 
