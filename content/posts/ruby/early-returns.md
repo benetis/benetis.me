@@ -149,12 +149,10 @@ We don't get any errors and we don't know that we need to update our function. A
 Early returns can be harmful, because they can hide errors and make code more prone to bugs.
 They can also help make functions simpler, but its not always the case.
 
-I think that pattern matching is the best way to work with data structures similar to enums.
+I think that pattern matching [1] is the best way to work with data structures similar to enums.
 
-
-
-
-
+# References
+[1] - https://docs.ruby-lang.org/en/3.0/syntax/pattern_matching_rdoc.html
 
 
 
