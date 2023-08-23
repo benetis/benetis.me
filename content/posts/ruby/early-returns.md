@@ -125,7 +125,8 @@ end
 ```
 
 This is better, but we do need discipline to use `else` every time. On top of that
-we need specifically create an error, which is not very convenient. NoMatchinPatternError is quite descriptive.
+we need specifically create an error, which is not very convenient. 
+NoMatchinPatternError before was quite descriptive itself. 
 
 ### Early returns
 
