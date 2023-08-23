@@ -109,6 +109,24 @@ greet(UserRole::MODERATOR) # will fail silently
 
 This is not good, because we don't get any errors and we don't know that we need to update our function.
 
+However, we can use `else` to get an error:
+
+```ruby
+def greet(role)
+  case role
+  when UserRole::ADMIN
+    puts "Hello, Admin!"
+  when UserRole::USER
+    puts "Hello, User!"
+  else
+    raise "Unknown role"
+  end
+end
+```
+
+This is better, but we do need discipline to use `else` every time. On top of that
+we need specifically create an error, which is not very convenient. NoMatchinPatternError is quite descriptive.
+
 ### Early returns
 
 Let's try to use early returns:
@@ -122,7 +140,7 @@ end
 greet(UserRole::MODERATOR) # will fail silently
 ```
 
-It is the problem – this will fail silently. 
+It is the problem – this will fail silently. Also, there is no `else` to save us.
 We don't get any errors and we don't know that we need to update our function. As bad as it gets.
 
 # Conclusion
@@ -130,8 +148,7 @@ We don't get any errors and we don't know that we need to update our function. A
 Early returns can be harmful, because they can hide errors and make code more prone to bugs.
 They can also help make functions simpler, but its not always the case.
 
-## References
-
+I think that pattern matching is the best way to work with data structures similar to enums.
 
 
 
