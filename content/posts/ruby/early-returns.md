@@ -1,5 +1,5 @@
 ---
-title: "Ruby early returns can be harmful"
+title: "Ruby's early returns can be harmful"
 date: 2023-08-23
 tags: ["ruby", "pattern-matching"]
 author: "benetis"
@@ -8,7 +8,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Ruby early returns can be harmful"
+description: "Ruby's early returns can be harmful"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -36,6 +36,8 @@ editPost:
 
 I've been using Ruby for a some time now and I've noticed that early returns can be over used.
 I'll review at one example with enums where I think some early returns can be harmful.
+
+Note: I am not saying early returns are bad, but in this specific example they can be harmful.
 
 # Enums
 
@@ -65,7 +67,7 @@ def greet(role)
   in UserRole::ADMIN
     puts "Hello, Admin!"
   in UserRole::USER
-    puts "Hello, User!"
+    puts "Hello, User!" 
   end
 end
 greet(UserRole::ADMIN) # => Hello, Admin!
