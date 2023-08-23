@@ -68,7 +68,7 @@ def greet(role)
     puts "Hello, User!"
   end
 end
-greet(UserRole::ADMIN) => Hello, Admin!
+greet(UserRole::ADMIN) # => Hello, Admin!
 ```
 
 Quite concise, powerful and easy to read. 
