@@ -1,14 +1,14 @@
 ---
 title: "Exploring Ruby & Rails: Building a Chatbot"
 date: 2023-06-14
-tags: ["ruby", "chatbot", "Ruby on Rails", "sidekiq", "telegram"]
+tags: ["ruby", "chatbot", "Ruby on Rails", "sidekiq", "telegram", "deprecated"]
 author: "benetis"
 showToc: true
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Building weather information downloader and letting chatbot user interact with data"
+description: "Deprecated: Building weather information downloader and letting chatbot user interact with data"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -31,6 +31,10 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+## Note
+
+This was first attempt at working with Ruby and its ecosystem. Code examples here are not good and not canonical Ruby. Might be an interesting post later to compare pre-understanding and post.
 
 ## Introduction
 
