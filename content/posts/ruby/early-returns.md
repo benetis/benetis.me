@@ -11,7 +11,6 @@ comments: false
 description: "Ruby's early returns can be harmful"
 disableHLJS: false # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

@@ -14,7 +14,6 @@ description: "This post explores implementing Conway's Game of Life using Scala 
 canonicalURL: "https://benetis.me/posts/game-of-life"
 disableHLJS: false # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true

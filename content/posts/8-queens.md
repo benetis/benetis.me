@@ -14,7 +14,6 @@ description: "An exploration into problem-solving with evolutionary computing, f
 canonicalURL: "https://benetis.me/posts/backtracking-8-queens"
 disableHLJS: false # to disable highlightjs
 disableShare: false
-disableHLJS: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
