@@ -1,7 +1,7 @@
 ---
 title: "Conway's Game of Life"
 date: 2020-05-04
-build:
+_build:
   list: never
 # weight: 1
 # aliases: ["/game-of-life"]

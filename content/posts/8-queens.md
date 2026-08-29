@@ -1,7 +1,7 @@
 ---
 title: "Backtracking: 8 Queens"
 date: 2020-04-05
-build:
+_build:
   list: never
 # weight: 1
 # aliases: ["/backtracking-8-queens"]

@@ -1,7 +1,7 @@
 ---
 title: "Ruby's early returns can be harmful"
 date: 2023-08-23
-build:
+_build:
   list: never
 tags: ["ruby", "pattern-matching"]
 author: "benetis"
