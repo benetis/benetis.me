@@ -8,7 +8,6 @@ robotsNoIndex: true
 share : true
 title : "Let's code: Authentication in Angular #1 - creating login form"
 slug : "angular-authentication"
-tags : ['Angular', 'Frontend', 'Side-project', "Let's code", 'Material']
 banner : ""
 aliases : ['/angular-authentication/']
 ---

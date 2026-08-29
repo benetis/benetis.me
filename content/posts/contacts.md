@@ -9,7 +9,6 @@ robotsNoIndex: true
 share : true
 title : "How to contact me. Waiting for your feedback!"
 slug : "contact-me"
-tags : []
 banner : ""
 aliases : ['/contact-me/']
 ---

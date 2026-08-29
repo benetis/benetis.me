@@ -5,7 +5,6 @@ _build:
   list: never
 # weight: 1
 # aliases: ["/backtracking-8-queens"]
-tags: ["computing", "scala"]
 author: "benetis"
 showToc: false
 TocOpen: false

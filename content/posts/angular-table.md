@@ -8,7 +8,6 @@ searchHidden: true
 robotsNoIndex: true
 title : "Let's code: Creating functional table with Angular"
 slug : "angular-table"
-tags : ['Angular2', 'Frontend', 'Side-project', "Let's code"]
 banner : ""
 aliases : ['/angular-table/']
 ---

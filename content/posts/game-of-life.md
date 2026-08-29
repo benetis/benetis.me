@@ -5,7 +5,6 @@ _build:
   list: never
 # weight: 1
 # aliases: ["/game-of-life"]
-tags: ["computing", "scala", "zio", "simulation"]
 author: "benetis"
 showToc: false
 TocOpen: false

@@ -8,7 +8,6 @@ searchHidden: true
 robotsNoIndex: true
 title : "Creating shopping cart with product list in Angular2"
 slug : "creating-shopping-cart-with-product-list-in-angular2"
-tags : ['Frontend', 'Angular2']
 banner : ""
 aliases : ['/creating-shopping-cart-with-product-list-in-angular2/']
 ---

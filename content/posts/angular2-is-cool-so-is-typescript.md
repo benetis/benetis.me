@@ -8,7 +8,6 @@ searchHidden: true
 robotsNoIndex: true
 title : "Angular 2 is cool. So is Typescript"
 slug : "angular2-is-cool-so-is-typescript"
-tags : ['Angular2', 'Frontend']
 banner : ""
 aliases : ['/angular2-is-cool-so-is-typescript/']
 ---

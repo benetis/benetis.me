@@ -9,7 +9,6 @@ robotsNoIndex: true
 share : true
 title : "Let's code: CRUD in Angular with unit tests"
 slug : "angular-advanced-crud"
-tags : ['Angular', 'Frontend', 'Side-project', "Let's code"]
 banner : ""
 aliases : ['/angular-advanced-crud/']
 ---
