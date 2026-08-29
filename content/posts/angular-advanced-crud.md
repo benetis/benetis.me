@@ -1,17 +1,20 @@
 
 ---
 date : "2017-05-14T23:00:24+02:00"
+build:
+    list: never
 draft : false
+searchHidden: true
+robotsNoIndex: true
 share : true
 title : "Let's code: CRUD in Angular with unit tests"
 slug : "angular-advanced-crud"
 tags : ['Angular', 'Frontend', 'Side-project', "Let's code"]
 banner : ""
 aliases : ['/angular-advanced-crud/']
-menu:
-    main:
-        parent: 'angular'
 ---
+
+> **Archived article:** This was written in 2017 and is kept online for existing links. It may be outdated and may not reflect my current views.
 
 ## Introduction
 

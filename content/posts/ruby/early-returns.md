@@ -1,6 +1,8 @@
 ---
 title: "Ruby's early returns can be harmful"
 date: 2023-08-23
+build:
+  list: never
 tags: ["ruby", "pattern-matching"]
 author: "benetis"
 showToc: true
@@ -13,6 +15,7 @@ disableHLJS: false # to disable highlightjs
 disableShare: false
 hideSummary: false
 searchHidden: true
+robotsNoIndex: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -30,6 +33,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+> **Archived article:** This was written in 2023 and is kept online for existing links. It may be outdated and may not reflect my current views.
 
 # Introduction
 
@@ -154,6 +159,3 @@ I think that pattern matching [1] is the best way to work with data structures s
 
 # References
 [1] - https://docs.ruby-lang.org/en/3.0/syntax/pattern_matching_rdoc.html
-
-
-

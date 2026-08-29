@@ -1,6 +1,8 @@
 ---
 title: "Backtracking: 8 Queens"
 date: 2020-04-05
+build:
+  list: never
 # weight: 1
 # aliases: ["/backtracking-8-queens"]
 tags: ["computing", "scala"]
@@ -16,6 +18,7 @@ disableHLJS: false # to disable highlightjs
 disableShare: false
 hideSummary: false
 searchHidden: true
+robotsNoIndex: true
 ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
@@ -33,6 +36,8 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: false # to append file path to Edit link
 ---
+
+> **Archived article:** This was written in 2020 and is kept online for existing links. It may be outdated and may not reflect my current views.
 
 # Introduction
 

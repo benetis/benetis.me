@@ -1,7 +1,11 @@
 
 ---
 date : "2017-04-22T18:54:24+02:00"
+build:
+    list: never
 draft : false
+searchHidden: true
+robotsNoIndex: true
 share : true
 title : "How to contact me. Waiting for your feedback!"
 slug : "contact-me"
@@ -9,6 +13,8 @@ tags : []
 banner : ""
 aliases : ['/contact-me/']
 ---
+
+> **Archived article:** This was written in 2017 and is kept online for existing links. Its contact information may be outdated.
 
 ## Contacts and feedback
 

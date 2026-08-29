@@ -1,16 +1,19 @@
 ---
 date : "2017-04-24T19:40:24+02:00"
+build:
+    list: never
 draft : false
+searchHidden: true
+robotsNoIndex: true
 share : true
 title : "Let's code: Authentication in Angular #1 - creating login form"
 slug : "angular-authentication"
 tags : ['Angular', 'Frontend', 'Side-project', "Let's code", 'Material']
 banner : ""
 aliases : ['/angular-authentication/']
-menu:
-    main:
-        parent: 'angular'
 ---
+
+> **Archived article:** This was written in 2017 and is kept online for existing links. It may be outdated and may not reflect my current views.
 
 ### Introduction
 

@@ -1,16 +1,19 @@
 
 ---
 date : "2016-11-24"
+build:
+    list: never
 draft : false
+searchHidden: true
+robotsNoIndex: true
 title : "Angular 2 is cool. So is Typescript"
 slug : "angular2-is-cool-so-is-typescript"
 tags : ['Angular2', 'Frontend']
 banner : ""
 aliases : ['/angular2-is-cool-so-is-typescript/']
-menu:
-    main:
-        parent: 'angular'
 ---
+
+> **Archived article:** This was written in 2016 and is kept online for existing links. It may be outdated and may not reflect my current views.
 
 ##### Introduction
 

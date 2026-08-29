@@ -1,16 +1,19 @@
 
 ---
 date : "2016-11-06"
+build:
+    list: never
 draft : false
+searchHidden: true
+robotsNoIndex: true
 title : "Let's code: Creating functional table with Angular"
 slug : "angular-table"
 tags : ['Angular2', 'Frontend', 'Side-project', "Let's code"]
 banner : ""
 aliases : ['/angular-table/']
-menu:
-    main:
-        parent: 'angular'
 ---
+
+> **Archived article:** This was written in 2016 and is kept online for existing links. It may be outdated and may not reflect my current views.
 
 ##### Offtopic
 Currently volunteering in organisation called "Erasmus student Network Lithuania". Working with a team to develop internal HR system.
